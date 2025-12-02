@@ -1,20 +1,82 @@
 # 💫 About Me: Ana Arco
-# <br><br>Digital Musicologist | Cultural Heritage Technologist <br><br>> *"Bridging the gap between historical preservation and digital innovation."*<br><br>Welcome. I am a specialist dedicated to **modernizing cultural infrastructures**. My work focuses on designing digital solutions for archives, musical institutions, and museums, ensuring that our artistic heritage remains accessible and preserved through secure, structured, and enduring code.<br><br>---<br><br>### 📜 Professional Focus<br><br>I sit at the intersection of **Historical Musicology** and **Information Technology**. My mission is to design digital infrastructures that respect the gravity of history while embracing the accessibility of the future.<br><br>* **Digital Archiving:** Cataloging complex artistic datasets (scores, audio, historical records).<br>* **Web Solutions for Culture:** Bespoke portals for bands, conservatories, and foundations.<br>* **Data Privacy:** Implementing secure protocols (Proton ecosystem, GDPR) for sensitive institutional data.<br><br>---<br><br>### ⚡ Current Status & Objectives<br><br>🔭 I’m currently working on **The digital archive for the historic Municipal Band of Los Llanos de Aridane (Est. 1868)** and laying the groundwork for a pioneering initiative to **unify and digitize the entire musical heritage of La Palma island.**<br><br>👯 I’m looking to collaborate on **Open-source projects related to Digital Humanities, Music Information Retrieval (MIR), and cultural heritage preservation.**<br><br>🤝 I’m looking for help with **Architectural patterns for secure, long-term digital archiving systems.**<br><br>🌱 I’m currently learning **Advanced Java, SQL for complex datasets, and accessible frontend standards.**<br><br>💬 Ask me about **Historical musicology, the intersection of Art & Code, and digital privacy strategies.**<br><br>⚡ Fun fact **I used to analyze symphonies; now I analyze syntax. Both require the same absolute precision and rhythm.**<br><br>---<br><br><div align="left"><br>  <a href="mailto:ana.arcizq@proton.me"><br>    <img src="https://img.shields.io/badge/Contact-ana.arcizq@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" /><br>  </a><br>  <a href="https://www.linkedin.com/in/ana-arco-izquierdo-b6732329b/"><br><br>    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=flat-square&logo=linkedin&logoColor=white" /><br>  </a><br></div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ana-arco-izquierdo-b6732329b/) 
+### Digital Musicologist | Cultural Heritage Technologist
+> *"Bridging the gap between historical preservation and digital innovation."*
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ana-arco&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ana-arco&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-arco&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ana-arco&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Welcome. I am a professional **dedicated to modernizing cultural infrastructures**. My work focuses on designing digital solutions for archives, musical institutions, and museums, ensuring that our artistic heritage remains accessible and preserved through secure, structured, and enduring code.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📜 Professional Focus
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I sit at the intersection of **Historical Musicology** and **Information Technology**. My mission is to design digital infrastructures that respect the gravity of history while embracing the accessibility of the future.
+
+* **Digital Archiving:** Cataloging complex artistic datasets (scores, audio, historical records).
+* **Web Solutions for Culture:** Bespoke portals for bands, conservatories, and foundations.
+* **Data Privacy:** Implementing secure protocols (Proton ecosystem, GDPR) for sensitive institutional data.
+
+---
+
+### ⚡ Current Status & Objectives
+
+🔭 I’m currently working on **The digital archive for the historic Municipal Band of Los Llanos de Aridane (Est. 1868)** and laying the groundwork for a pioneering initiative to **unify and digitize the entire musical heritage of La Palma island.**
+
+👯 I’m looking to collaborate on **Open-source projects related to Digital Humanities, Music Information Retrieval (MIR), and cultural heritage preservation.**
+
+🤝 I’m looking for help with **Architectural patterns for secure, long-term digital archiving systems.**
+
+🌱 I’m currently learning **Advanced Java, SQL for complex datasets, and accessible frontend standards.**
+
+💬 Ask me about **Historical musicology, the intersection of Art & Code, and digital privacy strategies.**
+
+⚡ Fun fact **I used to analyze symphonies; now I analyze syntax. Both require the same absolute precision and rhythm.**
+
+---
+
+### 💻 Tech Stack & Tools
+*Focusing on standards, structure, and design.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-Semántico-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Moderno-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-POO-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Git-Control_Versiones-F05033?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-Prototyping-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-Planning-000000?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-Agile-0079BF?style=flat&logo=trello&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub & Coding Activity
+
+<a href="https://wakatime.com/@anaarco">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ana-arco&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
+</a>
+
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ana-arco&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="ana-arco github stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-arco&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="ana-arco top languages" />
+</p>
+
+---
+
+<div align="center">
+
+  <a href="mailto:ana.arcizq@proton.me">
+    <img src="https://img.shields.io/badge/Contact-ana.arcizq@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ana-arco-izquierdo-b6732329b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
