@@ -1,83 +1,88 @@
 <!DOCTYPE html>
-<!-- especifica el idioma de la página web, para facilitar las traducciones por ejemplo !-->
 <html lang="es">
+
 <head>
-    <!-- Esta etiqueta sirver para poder representar tildes del español -->
     <meta charset="UTF-8">
-
-    <!-- La etiqueta viewport es obligatoria en la actualidad para mostrar el 100% de la pantalla del móvil -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- descripción y resumen para los motores de búsqueda -->
-    <meta name="Contact" content="Cómo contactar con Ana Arco">
-    
-    <!-- Título visible en el navegador -->
-    <title>Contacto - Ana Arco</title>
-    
-    <!-- Enlace para conectar el css.  <link rel="stylesheet" href="css/style.css"> -->
-	<link rel="stylesheet" href="style/style1.css">
-	
-	<!-- Enlace para favicon -->
-	<link rel="icon" href="images/favicon_ana.jpg" type="image/x-icon">
-	
+    <meta name="description"
+        content="Contacto y canales oficiales de Ana Arco Izquierdo. Espacio de correspondencia, lectura en Medium y redes profesionales.">
+    <title>Contacto | Ana Arco</title>
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=Poppins:wght@300;400;600;700&display=swap">
+    <link rel="stylesheet" href="style/style1.css">
+    <link rel="icon" href="images/favicon_ana.jpg" type="image/x-icon">
 </head>
+
 <body>
+    <center>
 
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="trayectoria.html">¿De dónde vengo?</a></li>
-                <li><a href="enfoque.html">¿Hacia dónde voy?</a></li>
-                <li><a href="contacto.html">¿Hablamos?</a></li>
-            </ul>
-        </nav>
-    </header>
+        <header>
+            <nav>
+                <a href="index.html">Inicio</a> |
+                <a href="trayectoria.html">¿De dónde vengo?</a> |
+                <a href="enfoque.html">¿Hacia dónde voy?</a> |
+                <a href="proyectos.html">Proyectos</a> |
+                <a href="contacto.html">Contáctame</a>
+            </nav>
+        </header>
 
-    <main>
-        <section>
-            <h1>Hablemos</h1>
-            <p>Si mi visión resuena contigo o quieres iniciar una conversación, este es el lugar.</p>
+        <main
+            style="max-width: 750px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 50px 30px;">
+            <h1 class="brand-name">¿Hablamos?</h1>
 
-            <form action="#" method="POST">
-                
-                <div>
-                    <label for="nombre">Nombre:</label>
-                    <input type="text" id="nombre" name="nombre_usuario" required>
+            <section class="manifesto-section" style="margin-top: 20px;">
+                <p class="subtitle">Pensamiento & Ensayo</p>
+                <p class="poetic-text" style="font-size: 1.1rem; margin-bottom: 25px;">
+                    A menudo vuelco mis reflexiones sobre el sonido, las estructuras sociales y la identidad en papel
+                    digital. Si te apetece asomarte a mis textos, eres más que bienvenido.
+                </p>
+                <br>
+                <a href="https://medium.com/@ana-arco" target="_blank" rel="noopener noreferrer" class="cta-link">
+                    ¿Leemos? ↗
+                </a>
+            </section>
+
+            <hr style="border: 0; border-top: 1px solid rgba(108, 92, 231, 0.15); margin: 50px auto; width: 150px;">
+
+            <section class="manifesto-section">
+                <p class="subtitle">Canales Abiertos</p>
+                <p class="poetic-text" style="font-size: 1.05rem; max-width: 550px; margin: 0 auto 30px auto;">
+                    Mientras sigo construyendo y ordenando nuevos entornos digitales, el diálogo sigue vivo. Podemos
+                    conectar, compartir ideas o seguir de cerca mis proyectos a través de mis redes profesionales:
+                </p>
+
+                <div style="display: flex; gap: 20px; justify-content: center; margin-top: 10px;">
+                    <a href="https://www.linkedin.com/in/ana-arco-izquierdo-b6732329b/" target="_blank"
+                        rel="noopener noreferrer" class="cta-link"
+                        style="padding: 10px 24px; font-size: 0.85rem; border-color: var(--primary); color: var(--primary);">
+                        LinkedIn ↗
+                    </a>
+                    <a href="https://github.com/ana-arco" target="_blank" rel="noopener noreferrer" class="cta-link"
+                        style="padding: 10px 24px; font-size: 0.85rem; border-color: var(--accent); color: var(--accent);">
+                        GitHub ↗
+                    </a>
                 </div>
+            </section>
+        </main>
 
-                <div>
-                    <label for="email">Email:</label>
-                    <input type="email" id="email" name="email_usuario" required>
-                </div>
+        <footer>
+            <div class="social-links">
+                <a href="https://github.com/ana-arco" target="_blank" rel="noopener noreferrer">
+                    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="Logo GitHub" width="40">
+                </a>
+                <a href="https://www.linkedin.com/in/ana-arco-izquierdo-b6732329b/" target="_blank"
+                    rel="noopener noreferrer">
+                    <img src="images/logoLinkedin.png" alt="Logo LinkedIn" width="40">
+                </a>
+            </div>
+            <p>&copy; 2026 - Ana Arco Izquierdo. Todos los derechos reservados.</p>
+            <p>© 2026 by <a href="index.html">Ana Arco Izquierdo</a> | <a
+                    href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"
+                    rel="noopener noreferrer">CC BY-NC-ND 4.0</a></p>
+        </footer>
 
-                <div>
-                    <label for="mensaje">Mensaje:</label>
-                    <textarea id="mensaje" name="mensaje_usuario" rows="5" required></textarea>
-                </div>
-
-                <button type="submit">Enviar Mensaje</button>
-            </form>
-        </section>
-    </main>
-    <br>
-    <footer>
-        <div class="social-links">
-            <!-- target="_blank" - Instrucción para 'Abrir en una Nueva Pestaña' -->
-            <!-- Protección contra phishing -->
-            <!-- rel="noopener noreferrer" instrucción para 'Abrir el enlace en una nueva pestaña, pero abre enlace 
-            de forma segura, cortando cualquier lazo con mi página, y de forma privada, sin decirle a dónde vas desde aquí." -->
-            
-            <a href="https://github.com/Anarkz7" target="_blank" rel="noopener noreferrer">
-				<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="Logo GitHub" width="40">
-			</a>
-			<a href="https://www.linkedin.com/in/ana-arco-izquierdo-b6732329b/" target="_blank" rel="noopener noreferrer">
-				<img src="images/logoLinkedin.png" alt="Logo Linkedin" width="40>">
-			</a>
-        </div>
-        <!-- El &copy; presenta en la página web el símbolo de copiright -->
-        <p>&copy; 2025 - Ana Arco Izquierdo. Todos los derechos reservados.</p>
-    </footer>
-
+    </center>
 </body>
+
 </html>

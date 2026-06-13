@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Enfoque profesional y visión de futuro de Ana Arco Izquierdo. Proyectos de humanidades digitales e inspiración en la preservación del patrimonio musical.">
+        content="Galería de proyectos de Ana Arco Izquierdo: soluciones web, bases de datos y archivos digitales dedicados a la gestión cultural y el patrimonio.">
     <title>Proyectos | Ana Arco</title>
 
     <link rel="stylesheet"
@@ -28,54 +28,95 @@
         </header>
 
         <main>
-            <h1 class="brand-name">Mis Proyectos</h1>
+            <h1 class="brand-name">Proyectos Aplicados</h1>
 
-
-            <!-- NUEVA SECCIÓN: CUADERNO DE BITÁCORA / PROYECTOS PRÁCTICOS -->
-            <section class="manifesto-section" style="margin-top: 60px;">
-                <p class="subtitle">Cuaderno de Bitácora: Entornos Prácticos</p>
-                <p class="poetic-text" style="font-size: 1.05rem; margin-bottom: 30px;">
-                    Espacios experimentales y aplicaciones donde aplico y desarrollo de forma activa mi enfoque sobre la
-                    estructura de datos y el diseño limpio:
+            <section class="manifesto-section">
+                <p class="subtitle">Cuaderno de Bitácora y Entornos Prácticos</p>
+                <p class="poetic-text" style="font-size: 1.05rem; margin-bottom: 50px;">
+                    Espacios experimentales, archivos y plataformas vivas donde desarrollo de forma activa mi enfoque
+                    sobre la estructura de datos, la gestión documental y la limpieza visual:
                 </p>
 
-                <!-- CONTENEDOR EN DOS COLUMNAS PARA LAS TARJETA-ENLACES -->
+                <!-- CONTENEDOR DE FILAS NARRATIVAS -->
                 <div
-                    style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap; max-width: 850px; margin: 0 auto;">
+                    style="display: flex; flex-direction: column; gap: 60px; max-width: 900px; margin: 0 auto; text-align: left;">
 
-                    <!-- TARJETA 1: ARCHIVE DRAWINGS -->
+                    <!-- PROYECTO 1: BANDA MUNICIPAL (Estructura de una imagen) -->
                     <article
-                        style="flex: 1; min-width: 280px; text-align: left; cursor: pointer; transition: transform 0.3s ease;"
-                        onclick="window.open('https://ana-arco.github.io/archive-drawings-database/', '_blank')">
-                        <h3 style="color: var(--primary); margin-top: 0;">Archive Drawings Database</h3>
-                        <p style="font-size: 0.9rem; line-height: 1.5; color: var(--dark);">
-                            Sistema de archivo digital diseñado para la organización, catalogación y gestión de
-                            documentación técnica y planos industriales complejos. Desarrollado con <strong>PHP</strong>
-                            y <strong>MariaDB</strong>.
-                        </p>
-                        <span
-                            style="font-size: 0.8rem; color: var(--primary); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Visitar
-                            Repositorio ↗</span>
+                        style="background: rgba(255, 255, 255, 0.4); border-radius: 15px; padding: 30px; border: 1px solid white; display: flex; gap: 30px; flex-wrap: wrap; align-items: center; cursor: pointer;"
+                        onclick="window.open('https://sites.google.com/view/bandadelosllanosdearidane/inicio', '_blank')">
+                        <div style="flex: 1.2; min-width: 280px;">
+                            <h3 style="color: var(--primary); margin-top: 0; font-size: 1.4rem;">Banda Municipal de
+                                Música</h3>
+                            <p style="font-size: 0.95rem; line-height: 1.6; color: var(--dark); margin-bottom: 20px;">
+                                Plataforma digital e histórica dedicada a la Banda de Los Llanos de Aridane (Est. 1868).
+                                Un espacio enfocado en la divulgación de su trayectoria, su presencia actual y la
+                                conservación de su memoria institucional y documental en el entorno isleño.
+                            </p>
+                            <span
+                                style="font-size: 0.8rem; color: var(--primary); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Visitar
+                                Sitio Web ↗</span>
+                        </div>
+                        <div style="flex: 0.8; min-width: 220px; max-width: 280px; margin: 0 auto;">
+                            <img src="images/preview_bmm.jpg" alt="Vista de la web de la Banda Municipal"
+                                style="width: 100%; border: 1px solid rgba(255,255,255,0.5); box-shadow: var(--shadow);">
+                        </div>
                     </article>
 
-                    <!-- TARJETA 2: MYSTIC CYCLING -->
+                    <!-- PROYECTO 2: ARCHIVE DRAWINGS (Díptico de dos imágenes) -->
                     <article
-                        style="flex: 1; min-width: 280px; text-align: left; cursor: pointer; transition: transform 0.3s ease;"
+                        style="background: rgba(255, 255, 255, 0.4); border-radius: 15px; padding: 30px; border: 1px solid white; display: flex; gap: 30px; flex-wrap: wrap; align-items: center; cursor: pointer;"
+                        onclick="window.open('https://ana-arco.github.io/archive-drawings-database/', '_blank')">
+                        <div style="flex: 1; min-width: 280px;">
+                            <h3 style="color: var(--primary); margin-top: 0; font-size: 1.4rem;">Archive Drawings
+                                Database</h3>
+                            <p style="font-size: 0.95rem; line-height: 1.6; color: var(--dark); margin-bottom: 20px;">
+                                Sistema de archivo digital diseñado para la organización, catalogación y gestión de
+                                documentación técnica y planos industriales complejos. Desarrollado de forma práctica
+                                con <strong>PHP</strong> y <strong>MariaDB</strong> para optimizar consultas
+                                estructurales.
+                            </p>
+                            <span
+                                style="font-size: 0.8rem; color: var(--primary); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Visitar
+                                Repositorio ↗</span>
+                        </div>
+                        <!-- Contenedor díptico -->
+                        <div style="flex: 1.2; min-width: 280px; display: flex; gap: 15px; justify-content: center;">
+                            <img src="images/preview_drawings.jpg" alt="Interfaz de Archive Drawings"
+                                style="width: 48%; border: 1px solid rgba(255,255,255,0.5); box-shadow: var(--shadow);">
+                            <img src="images/preview_schema.jpg" alt="Esquema de datos Archive Drawings"
+                                style="width: 48%; border: 1px solid rgba(255,255,255,0.5); box-shadow: var(--shadow);">
+                        </div>
+                    </article>
+
+                    <!-- PROYECTO 3: MYSTIC CYCLING (Díptico de dos imágenes) -->
+                    <article
+                        style="background: rgba(255, 255, 255, 0.4); border-radius: 15px; padding: 30px; border: 1px solid white; display: flex; gap: 30px; flex-wrap: wrap; align-items: center; cursor: pointer;"
                         onclick="window.open('https://ana-arco.github.io/mystic-cycling-journal/', '_blank')">
-                        <h3 style="color: var(--accent); margin-top: 0;">Mystic Cycling Journal</h3>
-                        <p style="font-size: 0.9rem; line-height: 1.5; color: var(--dark);">
-                            Un espacio web personal y puramente conceptual. Un ejercicio de diario digital volcado sobre
-                            una arquitectura semántica impecable, datos estructurados y un diseño visualmente limpio.
-                        </p>
-                        <span
-                            style="font-size: 0.8rem; color: var(--accent); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Visitar
-                            Espacio ↗</span>
+                        <div style="flex: 1; min-width: 280px;">
+                            <h3 style="color: var(--accent); margin-top: 0; font-size: 1.4rem;">Mystic Cycling Journal
+                            </h3>
+                            <p style="font-size: 0.95rem; line-height: 1.6; color: var(--dark); margin-bottom: 20px;">
+                                Un espacio web personal y puramente conceptual. Un ejercicio de diario digital
+                                interactivo volcado
+                                sobre una arquitectura semántica con <strong>HTML5</strong> y
+                                <strong>CSS3</strong>, explorando la estética del pixel art en el diseño web UX.
+                            </p>
+                            <span
+                                style="font-size: 0.8rem; color: var(--accent); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Visitar
+                                Espacio ↗</span>
+                        </div>
+                        <!-- Contenedor díptico -->
+                        <div style="flex: 1.2; min-width: 280px; display: flex; gap: 15px; justify-content: center;">
+                            <img src="images/preview_portal.jpg" alt="Portal de acceso Mystic Cycling"
+                                style="width: 48%; border: 1px solid rgba(255,255,255,0.5); box-shadow: var(--shadow);">
+                            <img src="images/preview_journal.jpg" alt="Interfaz del diario Mystic Cycling"
+                                style="width: 48%; border: 1px solid rgba(255,255,255,0.5); box-shadow: var(--shadow);">
+                        </div>
                     </article>
 
                 </div>
             </section>
-
-
 
             <br><br>
             <a href="contacto.html" class="cta-link">¿Hablamos?</a>
@@ -87,15 +128,28 @@
                 <a href="https://github.com/ana-arco" target="_blank" rel="noopener noreferrer">
                     <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="Logo GitHub" width="40">
                 </a>
+                <!-- Corregidas las comillas duplicadas en el atributo width -->
                 <a href="https://www.linkedin.com/in/ana-arco-izquierdo-b6732329b/" target="_blank"
                     rel="noopener noreferrer">
                     <img src="images/logoLinkedin.png" alt="Logo LinkedIn" width="40">
                 </a>
             </div>
-            <p>&copy; 2026 - Ana Arco Izquierdo. Todos los derechos reservados.</p>
-            <p>© 2026 by <a href="index.html">Ana Arco Izquierdo</a> | <a
-                    href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"
-                    rel="noopener noreferrer">CC BY-NC-ND 4.0</a></p>
+
+            <p>&copy;Ana Arco Izquierdo. Todos los derechos reservados.</p>
+            <p>&copy; 2026 by
+                <a href="index.html">Ana</a>
+                is licensed under
+                <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"
+                    rel="noopener noreferrer">CC BY-NC-ND 4.0</a>
+                <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC"
+                    style="max-width: 1em; max-height: 1em; margin-left: .2em; vertical-align: middle;">
+                <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY"
+                    style="max-width: 1em; max-height: 1em; margin-left: .2em; vertical-align: middle;">
+                <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC"
+                    style="max-width: 1em; max-height: 1em; margin-left: .2em; vertical-align: middle;">
+                <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="ND"
+                    style="max-width: 1em; max-height: 1em; margin-left: .2em; vertical-align: middle;">
+            </p>
         </footer>
 
     </center>
