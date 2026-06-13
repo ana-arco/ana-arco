@@ -1,82 +1,90 @@
-# 💫 About Me: Ana Arco
+# 💫 Ana Arco Izquierdo
 
-### Digital Musicologist | Cultural Heritage Technologist
-> *"Bridging the gap between historical preservation and digital innovation."*
+<div align="center">
 
----
+### Musicology & Digital Humanities Explorer
+ 
+[![Live Website](https://img.shields.io/badge/🌐_Visit_My_Website-ana--arco.github.io-6D4AFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ana-arco.github.io/ana-arco/)
 
-Welcome. I am a professional **dedicated to modernizing cultural infrastructures**. My work focuses on designing digital solutions for archives, musical institutions, and museums, ensuring that our artistic heritage remains accessible and preserved through secure, structured, and enduring code.
-
-### 📜 Professional Focus
-
-I sit at the intersection of **Historical Musicology** and **Information Technology**. My mission is to design digital infrastructures that respect the gravity of history while embracing the accessibility of the future.
-
-* **Digital Archiving:** Cataloging complex artistic datasets (scores, audio, historical records).
-* **Web Solutions for Culture:** Bespoke portals for bands, conservatories, and foundations.
-* **Data Privacy:** Implementing secure protocols (Proton ecosystem, GDPR) for sensitive institutional data.
+</div>
 
 ---
 
-### ⚡ Current Status & Objectives
+<details>
+<summary><b>🇪🇸 🌐 Leer en Español (Click para desplegar)</b></summary>
+<br>
 
-🔭 I’m currently working on **The digital archive for the historic Municipal Band of Los Llanos de Aridane (Est. 1868)** and laying the groundwork for a pioneering initiative to **unify and digitize the entire musical heritage of La Palma island.**
+**Te doy la bienvenida a mi espacio.** Soy clarinetista y musicóloga de formación (conservatorio y universidad). Movida por una necesidad imperiosa de proteger y divulgar nuestro patrimonio cultural, investigo cómo las herramientas digitales actuales pueden mantener viva nuestra historia.
 
-👯 I’m looking to collaborate on **Open-source projects related to Digital Humanities, Music Information Retrieval (MIR), and cultural heritage preservation.**
+🎼 **Mi camino y pasión:** Para mí, analizar una partitura y estructurar datos digitales nacen del mismo lugar: el amor por el orden, el ritmo y la preservación documental. Me entusiasma profundamente la intersección entre las Humanidades Digitales, el marketing cultural y el código.
 
-🤝 I’m looking for help with **Architectural patterns for secure, long-term digital archiving systems.**
+🛠️ **Enfoque Tecnológico:** Entiendo la tecnología como un medio maleable para la gestión cultural, donde mi principal activo es la **capacidad de investigar, aprender y adaptarme** a lo que cada archivo requiera. De forma práctica, exploro entornos web (HTML5, CSS3, JavaScript), desarrollo lógica con lenguajes como PHP, Python o Java, estructuro información mediante SQL (MySQL/MariaDB) o JSON, y utilizo Docker orientado a la reproducibilidad de datos a largo plazo.
 
-🌱 I’m currently learning **Advanced Java, SQL for complex datasets, and accessible frontend standards.**
+### 📌 Proyectos Destacados
 
-💬 Ask me about **Historical musicology, the intersection of Art & Code, and digital privacy strategies.**
+| Proyecto | Descripción | Stack de Práctica |
+| :--- | :--- | :--- |
+| **[Archive Drawings Database](https://ana-arco.github.io/archive-drawings-database/)** | Archivo digital para la organización y gestión de documentación técnica. | `PHP` `MariaDB` |
+| **[Mystic Cycling Journal](https://ana-arco.github.io/mystic-cycling-journal/)** | Espacio web personal y conceptual de diario digital. | `HTML5` `CSS3` |
 
-⚡ Fun fact **I used to analyze symphonies; now I analyze syntax. Both require the same absolute precision and rhythm.**
+### 🤝 Flujo de Trabajo y Progreso
+
+* **Agilidad:** Gestión de proyectos y flujos con **Jira** y **GitHub (Issues/Projects)**. Certificada en control de versiones con **Git**.
+* 📈 [Comprueba mi progreso de aprendizaje en tiempo real en W3Schools Pathfinder](https://pathfinder.w3schools.com/my-progress)
+
+</details>
 
 ---
 
-### 💻 Tech Stack & Tools
-*Focusing on standards, structure, and design.*
+<details>
+<summary><b>🇬🇧 🌐 Read in English (Click to expand)</b></summary>
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-Semántico-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Moderno-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-POO-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Git-Control_Versiones-F05033?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-Prototyping-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-Planning-000000?style=flat&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-Agile-0079BF?style=flat&logo=trello&logoColor=white" />
-</p>
+**Welcome to my space.** I am a musician and musicologist who trained at the conservatory (clarinet) and university. Driven by a deep need to preserve and share our cultural heritage, I am exploring how modern digital tools can keep our history alive.
+
+🎼 **My Journey & Passion:** For me, analyzing a score and structuring digital data come from the same place: a love for order, rhythm, and documentation. I am deeply enthusiastic about the intersection of Digital Humanities, cultural marketing, and code.
+
+🛠️ **Technical Approach:** I view technology as a malleable medium for cultural heritage, where my core strength lies in **my ability to research, learn, and adapt** to what each specific archive requires. On a practical level, I explore web foundations (HTML5, CSS3, JavaScript), develop logic with languages like PHP, Python, or Java, structure information through SQL (MySQL/MariaDB) or JSON, and utilize Docker to ensure long-term data reproducibility.
+
+### 📌 Featured Projects
+
+| Project | Description | Practical Stack |
+| :--- | :--- | :--- |
+| **[Archive Drawings Database](https://ana-arco.github.io/archive-drawings-database/)** | Digital archive for the organization and management of technical documentation. | `PHP` `MariaDB` |
+| **[Mystic Cycling Journal](https://ana-arco.github.io/mystic-cycling-journal/)** | Concept-driven digital journaling space. | `HTML5` `CSS3` |
+
+### 🤝 Workflow & Progress
+
+* **Agility:** Agile tracking with **Jira** & **GitHub (Issues/Projects)**. Certified in **Git** version control.
+* 📈 [Check my real-time learning progress on W3Schools Pathfinder](https://pathfinder.w3schools.com/my-progress)
+
+</details>
 
 ---
 
 ### 📊 GitHub & Coding Activity
 
-<a href="https://wakatime.com/@anaarco">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ana-arco&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
-</a>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ana-arco&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" alt="ana-arco github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-arco&theme=radical&hide_border=true&layout=compact&langs_count=6" width="48%" alt="ana-arco top languages" />
+</p>
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ana-arco&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="ana-arco github stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-arco&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="ana-arco top languages" />
-</p>
+<div align="center">
+  <a href="https://wakatime.com/@anaarco">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anaarco&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
 
-  <a href="mailto:ana.arcizq@proton.me">
-    <img src="https://img.shields.io/badge/Contact-ana.arcizq@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ana-arco-izquierdo-b6732329b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+[![Email](https://img.shields.io/badge/Contact-ana.arcizq@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:ana.arcizq@proton.me)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&where=white)](https://www.linkedin.com/in/ana-arco-izquierdo-b6732329b/)
 
 </div>
